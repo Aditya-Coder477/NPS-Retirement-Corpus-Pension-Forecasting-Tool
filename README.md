@@ -1,7 +1,6 @@
 # NPS Retirement Planner
 A modern, responsive web application designed as a prototype for the **National Pension System (NPS)**, developed for the **Government of India / PFRDA**.
 This application helps users plan their retirement by calculating potential corpus growth, estimating monthly pension, analyzing risk based on market volatility, and comparing different investment scenarios.
-![NPS Planner Screenshot](https://via.placeholder.com/800x400?text=NPS+Retirement+Planner+Prototype)
 ## Features
 *   **Pension Calculator**: Estimate retirement corpus and monthly pension based on current age, retirement age, contribution, and expected returns.
 *   **Visual Projections**: Interactive charts (Area Chart) to visualize corpus growth over time.
